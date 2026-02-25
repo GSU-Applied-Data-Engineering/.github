@@ -1,4 +1,3 @@
-# .github
 Governor State University's Applied Data Engineering GitHub
 ---
 title: Applied Data Engineering Club
